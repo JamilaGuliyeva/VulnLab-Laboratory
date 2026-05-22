@@ -1,4 +1,5 @@
-Laboratoriya İşləri və Texniki Hesabatlar
+Laboratoriya İşləri və Texniki Hesabatlar:
+
 Bu repozitoriya "İnformasiya Təhlükəsizliyi" ixtisası üzrə apardığım laboratoriya işlərini, sistem analizi (Reverse Engineering), şəbəkə təhlili və kriminalistik (Forensics) tədqiqat hesabatlarını əhatə edir.
 
 Layihələr və Hesabatlar
